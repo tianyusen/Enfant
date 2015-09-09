@@ -1,0 +1,34 @@
+body{
+	background-color: #6ff666;
+}
+
+
+#name{
+	color: #999;
+	margin: 0px;
+	padding: 0px;
+}
+#potrait{
+	background: black;
+	margin: 0px;
+	padding: 10px 0px;
+
+}
+.callout{
+	clear: both;
+}
+#title{
+	text-align: center;
+	background: black;
+	margin: 0px;
+	padding: 0px;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	
+}
+.author{
+	text-align: right;
+}
+
+#leftbar{
+	font-family: fantasy;
